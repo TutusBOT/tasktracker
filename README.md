@@ -1,3 +1,3 @@
 # Task Tracker
 
-Todo app builded with React and SCSS
+Todo app created with React and SCSS
